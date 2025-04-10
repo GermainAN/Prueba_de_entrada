@@ -1,0 +1,1 @@
+print("dia 1: Configuración del entorno y estructura básica")
