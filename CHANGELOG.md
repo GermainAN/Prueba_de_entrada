@@ -1,6 +1,6 @@
 # CHANGELOG.md
 
-## Dia1:  Configuración del entorno y estructura básica
+## Dia 1:  Configuración del entorno y estructura básica
 
 - se creo la carpta donde esta el proyecto </trivia-game-python>
 - se configuro el entorno virutal y se instalo las dependencias FastAPI, Uvicorn, asyncpg, databases
@@ -10,9 +10,14 @@
 - se creo la rama feature/dia 1
 - se configuro el Dockerfile y docker-compose.yml para el proyecto
 
-## Dia2: 
+## Dia 2: 
 - se creo la rama feature/dia2
 - se creo la capreta /app se crea el archivo trivia.py
 - se implento una prueba basica
 -  actualizamos el dockerfile y docker-compose.yml
 - se contruye e inicia el contenedor
+
+## Dia 3: 
+- se creo la rama feature/dia3
+- se implemento la clase quiz
+- se implemento la logica basica 

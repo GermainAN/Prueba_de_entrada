@@ -1,4 +1,4 @@
 # Prueba de entrada 
-- [Dia 1](Documentacion/DocumentacinDia1.md)
-- [Dia 2](Documentacion/DocumentacionDia2.md)
-
+- [Dia 1](Evidencia/EvidenciaDia1.md)
+- [Dia 2](Evidencia/EvidenciaDia2.md)
+- [Dia 3](Evidencia/EvidenciaDia3.md)
