@@ -27,8 +27,8 @@ class Quiz:
     
     def answer_question(self, question, answer):
         if question.is_correct(answer):
-            self.corect_answers += 1
+            self.correct_answers += 1
             return True
         else:
-            self.incorrect_answer += 1
+            self.incorrect_answers += 1
             return False
