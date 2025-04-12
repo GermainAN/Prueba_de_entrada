@@ -1,4 +1,7 @@
 # Prueba de Entrada
+---
+[Dia 2 >>](EvidenciaDia2.md)
+---
 
 ## creamos la carpeta
 
@@ -46,3 +49,7 @@ para luegbo instalar  `fastapi uvicorn asyncpg databases`
 
 ## 7. git log
 ![imagen.png](imagen/image9.png)
+
+---
+[Dia 2 >>](EvidenciaDia2.md)
+---

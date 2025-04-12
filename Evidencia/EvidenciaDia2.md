@@ -1,5 +1,8 @@
-# dia2
+# Dia 2
 
+---
+[<< Dia 1](EvidenciaDia1.md) | [Dai 3 >>](EvidenciaDia3.md)
+---
 ## 1. creamos la rama `feature/dia2`
 
 ![image.png](imagen2/image.png)
@@ -47,3 +50,7 @@ con el comando `python -m pytest` es para ejecutar las pruebas des la raiz del p
 ![image.png](imagen2/image%2010.png)
 
 ![image.png](imagen2/image%2011.png)
+
+---
+[<< Dia 1](EvidenciaDia1.md) | [Dia 3 >>](EvidenciaDia3.md)
+---
