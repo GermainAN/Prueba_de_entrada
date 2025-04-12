@@ -21,3 +21,10 @@
 - se creo la rama feature/dia3
 - se implemento la clase quiz
 - se implemento la logica basica 
+
+## Dia 4:
+- se creo la rama feature/dia4
+- se implemento el metodo answer_question
+- se realizo un commit para anwer_question
+- se implemento una prueba unitaria para la verificacion de puntos
+- se ejecuto el test

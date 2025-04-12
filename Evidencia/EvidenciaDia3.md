@@ -1,5 +1,7 @@
-# dia 3
-
+# Dia 3
+---
+[<< Dia 2](EvidenciaDia2.md) | [Dia 4 >>](EvidenciaDia4.md)
+---
 ## 1. creando la rama `feature/dia3`
 
 ![image.png](imagen3/image.png)
@@ -23,3 +25,7 @@ se implementa en el archivo  `/app/trivia.py`
 ![image.png](imagen3/image%205.png)
 
 ![image.png](imagen3/image%206.png)
+
+---
+[<< Dia 2](EvidenciaDia2.md) | [Dia 4 >>](EvidenciaDia4.md)
+---
