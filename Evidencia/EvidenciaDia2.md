@@ -1,7 +1,7 @@
 # Dia 2
 
 ---
-[<< Dia 1](EvidenciaDia1.md) | [Dai 3 >>](EvidenciaDia3.md)
+[<< Dia 1](EvidenciaDia1.md) | [Dia 3 >>](EvidenciaDia3.md)
 ---
 ## 1. creamos la rama `feature/dia2`
 

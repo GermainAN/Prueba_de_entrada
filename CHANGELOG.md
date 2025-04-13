@@ -28,3 +28,9 @@
 - se realizo un commit para anwer_question
 - se implemento una prueba unitaria para la verificacion de puntos
 - se ejecuto el test
+
+## Dia 5:
+- se crea la rama feature/dia5
+- se mejora la interfaz de la consola 
+- se implementa un try-except para validar la entrada del usuario y evitar errores
+- se hace una prueba de interfaz y ajuste de mensajes 
