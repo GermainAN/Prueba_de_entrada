@@ -18,6 +18,9 @@ una vez crado la rama nos pasamos a la rama
 
 ![image.png](imagen5/image%203.png)
 
+## 4. Fusionando Ramas
+
+![image.png](imagen5/image4.png)
 ---
 [<< Dia 4](Evidenciadia4.md)
 ---

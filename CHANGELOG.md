@@ -34,3 +34,4 @@
 - se mejora la interfaz de la consola 
 - se implementa un try-except para validar la entrada del usuario y evitar errores
 - se hace una prueba de interfaz y ajuste de mensajes 
+- se fusionaron las ramas develop y feature/dia5
