@@ -1,6 +1,11 @@
 from trivia import Question, Quiz
 
 def run_quiz():
+    print("*******************************************")
+    print("Bienvenido al juego de TRIVIA")
+    print("*******************************************")
+
+    print("Responde las siguientes preguntas seleccionando el numero de la opccion correcta")
     quiz = Quiz()
 
     preguntas = [
@@ -59,6 +64,7 @@ def run_quiz():
     for p in preguntas:
         quiz.add_question(Question(p["description"], p["options"], p["correct_answer"]))
     
+    print("-------------------------------------------")
     cont = 0
     while True:
         pregunta = quiz.get_next_question()
@@ -73,11 +79,22 @@ def run_quiz():
         for i, opcion in enumerate(pregunta.options):
             print(f"{i + 1}. {opcion}")
         
-        respueta = int(input("eliga la clave correcta(1-4): "))
+        #respueta = int(input("eliga la clave correcta(1-4): "))
+        while True:
+            respuesta = input("\neliga una opccion (1-4): ")
+            try:
+                indice = int(respuesta)
+                if 1 <= indice <= len(pregunta.options):
+                    seleccion = pregunta.options[indice - 1]
+                    break
+            except ValueError:
+                print("\nEntrada invalida")
 
-        if pregunta.is_correct(pregunta.options[respueta - 1]):
+        if pregunta.is_correct(seleccion):
             print("¡CORRECTO!")
         else:
             print("la clave es incorrecta")
+        
+        print("-------------------------------------------")
 
 run_quiz()
