@@ -66,6 +66,7 @@ def run_quiz():
     
     print("-------------------------------------------")
     cont = 0
+    puntos = 0
     while True:
         pregunta = quiz.get_next_question()
     
@@ -92,9 +93,15 @@ def run_quiz():
 
         if pregunta.is_correct(seleccion):
             print("¡CORRECTO!")
+            puntos += 1
         else:
             print("la clave es incorrecta")
         
         print("-------------------------------------------")
+    
+    print("\nJUEGO TERMINADO ")
+    print("total de preguntas")
+    print(f"respuestas correctas: {puntos}")
+    print(f"respuestas incorrectas: {10-puntos}")
 
 run_quiz()
