@@ -1,9 +1,8 @@
 # Dia 4
 
 ---
-[<< Dia 3](EvidenciaDia3.md)
+[<< Dia 3](EvidenciaDia3.md) | [Dia 5 >>](EvidenciaDia5.md)
 ---
-
 ## 1. creamos larama feature/dia4
 
 creamos con el comando `git branch feature/dia4`  y nos cambiamos a a la rama con
@@ -41,5 +40,5 @@ ejecucion del juego
 ![image.png](imagen4/image%206.png)
 
 ---
-[<< Dia 3](EvidenciaDia3.md)
+[<< Dia 3](EvidenciaDia3.md) | [Dia 5 >>](EvidenciaDia5.md)
 ---
